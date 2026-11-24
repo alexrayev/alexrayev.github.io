@@ -65,3 +65,15 @@ footer{padding:28px 0;color:var(--muted);font-size:.92rem}
 @media (max-width:700px){.brow{grid-template-columns:1fr;gap:2px}}
 .tight .flow{flex-wrap:nowrap;gap:6px}.tight .box{min-width:0;padding:8px 8px}.tight .arr{font-size:1.1rem}
 @media (max-width:700px){.tight .flow{flex-wrap:wrap}}
+
+.page h3.sub3{margin:18px 0 4px;font-size:1.1rem}
+figure.cert{margin:18px 0 0;max-width:560px}figure.cert img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.12)}figure.cert figcaption{color:var(--muted);font-size:.88rem;margin-top:8px}
+.skills .edu{grid-column:1/-1}
+.edu summary{cursor:pointer;list-style:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 14px}
+.edu summary::-webkit-details-marker{display:none}
+.edu summary::before{content:"\25B8";color:var(--accent);font-size:1.1rem;margin-right:-6px}
+.edu details[open] summary::before{content:"\25BE"}
+.edu summary h3{margin:0}.edu summary:hover h3{text-decoration:underline}
+.edu summary span{color:var(--muted);font-size:.95rem}
+.edu summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:4px}
+.edu ul{margin:12px 0 0 18px;padding:0}.edu li{margin-bottom:4px}

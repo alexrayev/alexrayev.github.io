@@ -19,6 +19,7 @@ Hands-on full-stack software architect specialising in developer-first cloud pla
 | [CAPSENSE Studio: WPF Edition](projects/capsense-studio-wpf.html) | Zero-dependency .NET 10 WPF/MVVM tuning GUI with a built-in telemetry simulator. |
 | [Low-Power Wake-Word ML Pipeline: Optimization](projects/wake-word-ml-pipeline.html) | Fixed an inherited wake-word training pipeline: 130 to 34 GB peak data-prep memory, 50% faster GPU model training, same model quality. |
 | [KAK Process and Keisan Quality Metrics](projects/keisan-quality-process.html) | Development process blending Kaizen, Agile and RUP, plus an automated daily quality pipeline feeding team dashboards. |
+| [Medical-Device Software: Laser Lithotripsy and Remote Consultation](projects/medical-device-software.html) | Cross-platform laser lithotripsy system (C++ Qt, QML, ZeroMQ, MongoDB) that shortened procedures from sixty to forty minutes, and an Angular client for remote doctor consultations. |
 
 Project descriptions are generalised and the diagrams are simplified and illustrative. No internal screenshots, hostnames or identifiers are shown.
 
